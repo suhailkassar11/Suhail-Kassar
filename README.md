@@ -1,4 +1,4 @@
-
+![logo](https://github.com/suhailkassar11/Suhail-Kassar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm SUHAIL KASSAR</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img width="400" alt="image" align="right" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
